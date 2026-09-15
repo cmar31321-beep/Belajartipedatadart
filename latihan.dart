@@ -66,3 +66,22 @@ void main() {
   // data.add(data3);
 
   // print(data);
+
+  var listData = [
+    {"nama": "Simon", "Umur": 28, "prodi": "BD"},
+    {"nama": "Rafael", "Umur": 25, "prodi": "SI"},
+    {"nama": "Zuan", "Umur": 22, "prodi": "TI"},
+  ];
+      {"nama": "Simon", "Umur": 28, "prodi": "BD"},
+      {"nama": "Rafael", "Umur": 25, "prodi": "SI"},
+      {"nama": "Zuan", "Umur": 22, "prodi": "TI"},
+    ];
+
+    var rafael = listData[1];
+
+  var rafael = listData[1];
+    print('nama saya ${rafael['nama']}, umur ${rafael['Umur']}, prodi ${rafael['prodi']}');
+
+  print('nama saya ${rafael['nama']}, umur ${rafael['Umur']}, prodi ${rafael['prodi']}');
+}
+}
